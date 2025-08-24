@@ -1,2 +1,2 @@
-# Dipole_moment_of_exciton
+# Dipole moment of exciton
 Calculate dipole moment from exciton wave function
